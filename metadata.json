@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio",
+  "description": "A modern, responsive, and minimalist single-page developer portfolio with active GitHub integrations, project grids, timeline milestones, and an interactive builder mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
