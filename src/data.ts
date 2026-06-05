@@ -7,6 +7,7 @@ export const INITIAL_PORTFOLIO_DATA: PortfolioData = {
   bio: "Passionate BCA student with hands-on experience in building and deploying web applications using AI-assisted development and modern web technologies. Highly skilled in frontend layouts, custom APIs, responsive designs, and cloud deployments. Completed 6 professional certifications from AWS, IBM, and UC San Diego, driven to apply strong technical capabilities in key real-world environments.",
   githubUsername: "neelsantmayor-stack",
   accentColor: "emerald",
+  avatarUrl: "/profile.jpg",
   linkedinUrl: "https://www.linkedin.com/in/neel-santhumayor-8a7144310/",
   githubUrl: "https://github.com/neelsantmayor-stack",
   email: "neelsantmayor@gmail.com"

@@ -1,0 +1,1 @@
+Upload your 'profile.jpg' file to this exact folder ('public') to display it as your profile picture inside the portfolio.
