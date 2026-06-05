@@ -38,7 +38,7 @@ export const INITIAL_EXPERIENCE: ExperienceItem[] = [
   {
     id: "exp-3",
     role: "AI-Assisted Developer & Contributor",
-    company: "GitHub Community",
+    company: "Personal Projects",
     duration: "2025 - Present",
     achievements: [
       "Engineered 'Gemini Suite' integrating text, image, and video generation APIs on Vercel, utilizing AI-assisted development models to speed up assembly.",
